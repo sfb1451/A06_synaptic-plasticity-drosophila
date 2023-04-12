@@ -1,0 +1,39 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Visualization of learning-induced synaptic plasticity in
+  output neurons of the Drosophila mushroom body γ-lobe
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Clare E.
+    family-names: Hancock
+  - given-names: Vahid
+    family-names: Rostami
+  - given-names: El Yazid
+    family-names: Rachad
+  - given-names: Stephan H.
+    family-names: Deimel
+  - given-names: Martin P.
+    family-names: Nawrot
+  - given-names: André
+    family-names: Fiala
+identifiers:
+  - type: other
+    value: 21.11124/For2705_000095
+    description: >-
+      hdl.net handle for the dataset deposited in Research
+      Data Platform FOR 2705
+repository: 'https://for2705.de/archive/4/95'
+abstract: >-
+  This dataset contains data used for the publication
+  "Visualization of learning-induced synaptic plasticity in
+  output neurons of the Drosophila mushroom body γ-lobe",
+  https://doi.org/10.1038/s41598-022-14413-5
+keywords:
+  - drosophila
+  - neuroscience
