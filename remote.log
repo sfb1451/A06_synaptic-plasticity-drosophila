@@ -1,1 +1,2 @@
+906b1811-b480-4b97-9209-590e145dc8ba encryption=none exporttree=yes name=sciebo-storage type=webdav url=https://fz-juelich.sciebo.de/remote.php/dav/files/m.szczepanik%40fz-juelich.de/Projects/A06/synaptic-plasticity-drosophila timestamp=1681382900.466303309s
 c04eb54b-4b4e-5755-8436-866b043170fa autoenable=true encryption=none externaltype=datalad-archives name=datalad-archives type=external timestamp=1681311711.583861347s
